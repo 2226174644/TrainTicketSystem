@@ -1,0 +1,14 @@
+#include "addpassager.h"
+#include "ui_addpassager.h"
+
+AddPassager::AddPassager(QWidget *parent) :
+    QMainWindow(parent),
+    ui(new Ui::AddPassager)
+{
+    ui->setupUi(this);
+}
+
+AddPassager::~AddPassager()
+{
+    delete ui;
+}

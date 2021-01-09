@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>style.qss</file>
+        <file>main.ico</file>
+        <file>silvery.css</file>
+        <file>abanner05.jpg</file>
+        <file>qss/silvery/add_bottom.png</file>
+        <file>qss/silvery/add_left.png</file>
+        <file>qss/silvery/add_right.png</file>
+        <file>qss/silvery/add_top.png</file>
+        <file>qss/silvery/branch_close.png</file>
+        <file>qss/silvery/branch_open.png</file>
+        <file>qss/silvery/calendar_nextmonth.png</file>
+        <file>qss/silvery/calendar_prevmonth.png</file>
+        <file>qss/silvery/checkbox_checked.png</file>
+        <file>qss/silvery/checkbox_checked_disable.png</file>
+        <file>qss/silvery/checkbox_parcial.png</file>
+        <file>qss/silvery/checkbox_parcial_disable.png</file>
+        <file>qss/silvery/checkbox_unchecked.png</file>
+        <file>qss/silvery/checkbox_unchecked_disable.png</file>
+        <file>qss/silvery/radiobutton_checked.png</file>
+        <file>qss/silvery/radiobutton_checked_disable.png</file>
+        <file>qss/silvery/radiobutton_unchecked.png</file>
+        <file>qss/silvery/radiobutton_unchecked_disable.png</file>
+        <file>banner0619.jpg</file>
+        <file>abanner01.jpg</file>
+        <file>abanner02.jpg</file>
+        <file>abanner04.jpg</file>
+        <file>12306.ico</file>
+        <file>to.png</file>
+        <file>train.png</file>
+        <file>user.png</file>
+        <file>user0.png</file>
+        <file>order.png</file>
+        <file>passager.png</file>
+        <file>switch.png</file>
+        <file>passinfo.png</file>
+    </qresource>
+</RCC>
